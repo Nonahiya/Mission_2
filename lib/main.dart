@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mission_1/views/pages.dart';
+import 'package:mission_2/views/pages.dart';
 
 void main() {
   runApp(const MyApp());
