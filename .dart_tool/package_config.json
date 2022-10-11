@@ -38,6 +38,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "email_validator",
+      "rootUri": "file:///D:/src/flutter/.pub-cache/hosted/pub.dartlang.org/email_validator-2.1.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///D:/src/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.1",
       "packageUri": "lib/",
@@ -60,6 +66,24 @@
       "rootUri": "file:///D:/src/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///D:/src/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fluttertoast",
+      "rootUri": "file:///D:/src/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///D:/src/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
     },
     {
       "name": "lints",
@@ -146,7 +170,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-10-11T05:55:37.785765Z",
+  "generated": "2022-10-11T06:03:06.973361Z",
   "generator": "pub",
   "generatorVersion": "2.18.0"
 }
